@@ -1,0 +1,16 @@
+{
+  "name": "dynamicmidterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.10.6",
+    "socket.io": "^1.3.7"
+  }
+}
