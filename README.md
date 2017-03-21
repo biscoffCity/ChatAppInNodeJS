@@ -1,4 +1,4 @@
 # ChatAppInNodeJS
 
-[Demo Chat App] (bit.ly/AdnanChat)
+[Demo Chat App] (https://bit.ly/AdnanChat)
 
